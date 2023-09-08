@@ -1,0 +1,62 @@
+
+
+.form{
+   text-align: start;
+    width:775px;
+    margin:auto;
+    padding:55px;
+    border-radius: 35px;
+    
+    
+}
+.label{
+    color: white;
+    text-align: center;
+    width: 331;
+}
+img{
+    top:auto;
+    margin:6px;
+    padding: 53px;;
+    position:relative;
+    
+}
+.do,.ph,.cou{
+    border-radius: 10px;
+    width:200px;
+    margin: auto;
+    /* padding: 55px; */
+}
+.input{
+    border-radius: 148px;
+    width:200px;
+}
+h3,h4,h5{
+    color: white;
+}
+.cit{
+    border-radius: 10px; 
+    width:200px;
+}
+.Label{
+   
+    color:white;
+  
+   
+}
+.sub{
+    border-radius: 10px;
+    width:300px;
+    height: 35px;
+    align-items: center;
+    
+}
+.sub{
+    
+    
+    width: 108px;
+}
+
+.hobbies-box{
+    text-align: start;
+}

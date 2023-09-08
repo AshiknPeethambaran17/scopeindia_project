@@ -1,0 +1,17 @@
+
+
+.ikk{
+    top:auto;
+    margin: 151px;
+    padding: 45px;
+    position: relative;
+}
+
+
+.container{
+    text-align: center;
+    border-radius: 10px;
+}
+.pass,.emai{
+    width:auto;
+}
